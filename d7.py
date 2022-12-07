@@ -1,4 +1,4 @@
-rows = int(input("hello"))
+rows = int(input("enter number of rows"))
 col = rows + rows - 5
 center = col // 2
 for i in range(rows):
